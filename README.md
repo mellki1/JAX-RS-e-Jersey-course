@@ -1,3 +1,3 @@
 # JAX-RS-and-Jersey-course-
 
-# curso de Java Api realizado na Alura.
+### curso de Java Api realizado na Alura.
